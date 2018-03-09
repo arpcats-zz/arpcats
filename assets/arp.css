@@ -65,3 +65,9 @@ section h1{
 #education .content, #aboutme .content{
     margin-bottom: 3em;
 }
+
+.card.small .arp-card-image{
+    max-width: 51%;
+    margin: 0 auto;
+    padding-top: 5px;
+}
